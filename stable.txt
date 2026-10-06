@@ -1,3 +1,3 @@
 stable line 1
-stable line 2
+stable line 2 CHANGED-BY-OLD-COMMIT
 stable line 3

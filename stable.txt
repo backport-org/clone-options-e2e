@@ -1,3 +1,7 @@
 stable line 1
+<<<<<<< HEAD
 stable line 2
+=======
+stable line 2 CHANGED-BY-OLD-COMMIT
+>>>>>>> 787749b (Change tip.txt (#1))
 stable line 3

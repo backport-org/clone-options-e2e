@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 data-05 row 1
+=======
+data-05 row 1 edited
+>>>>>>> 787749b (Change tip.txt (#1))
 data-05 row 2
 data-05 row 3
 data-05 row 4

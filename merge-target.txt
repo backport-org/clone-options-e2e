@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 merge-target line 1
 merge-target line 2
 merge-target line 3
+=======
+merge-target line 1 FEATURE-A
+merge-target line 2
+merge-target line 3 FEATURE-B
+>>>>>>> 787749b (Change tip.txt (#1))

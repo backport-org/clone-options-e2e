@@ -1,1 +1,1 @@
-7.x release notes
+7.x release notes v2
